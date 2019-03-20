@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b482ed4-b299-4c6d-aea6-c759cdbd8bb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/05.fun.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/07.class.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/META-INF/Kotlin_Tutorial.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/META-INF/Kotlin_Tutorial.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/KotlinExampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/KotlinExampleKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_03_String_ArrayKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_03_String_ArrayKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_04_if_else_for_whileKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_04_if_else_for_whileKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_04_if_else_for_whileKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_04_if_else_for_whileKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_05_funKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_05_funKt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_05_funKt$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_05_funKt$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_05_funKt$main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_05_funKt$main$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_05_funKt.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,38 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KotlinExample.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/03.String_Array.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/04.if_else_for_while.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/05.fun.kt">
+        <entry file="file://$PROJECT_DIR$/src/07.class.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="45" column="87" selection-start-line="45" selection-start-column="87" selection-end-line="45" selection-end-column="87" />
+            <state relative-caret-position="243">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -74,6 +50,7 @@
         <option value="$PROJECT_DIR$/src/03.String_Array.kt" />
         <option value="$PROJECT_DIR$/src/04.if_else_for_while.kt" />
         <option value="$PROJECT_DIR$/src/05.fun.kt" />
+        <option value="$PROJECT_DIR$/src/07.class.kt" />
       </list>
     </option>
   </component>
@@ -112,7 +89,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553098145221" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553099690462" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -127,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.hello._05_funKt">
+  <component name="RunManager" selected="Kotlin.hello._07_classKt">
     <configuration name="hello.KotlinExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Tutorial" />
       <option name="VM_PARAMETERS" />
@@ -167,8 +144,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hello._07_classKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_Tutorial" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="hello._07_classKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.hello._07_classKt" />
         <item itemvalue="Kotlin.hello._05_funKt" />
         <item itemvalue="Kotlin.hello._04_if_else_for_whileKt" />
         <item itemvalue="Kotlin.hello.KotlinExampleKt" />
@@ -206,7 +197,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3298731" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
@@ -221,10 +212,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/KotlinExample.kt">
+    <entry file="file://$PROJECT_DIR$/src/05.fun.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="260">
+          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/04.if_else_for_while.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -235,17 +233,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/04.if_else_for_while.kt">
+    <entry file="file://$PROJECT_DIR$/src/KotlinExample.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        <state relative-caret-position="328">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/05.fun.kt">
+    <entry file="file://$PROJECT_DIR$/src/07.class.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="45" column="87" selection-start-line="45" selection-start-column="87" selection-end-line="45" selection-end-column="87" />
+        <state relative-caret-position="243">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
