@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b482ed4-b299-4c6d-aea6-c759cdbd8bb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/07.class.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/META-INF/Kotlin_Tutorial.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/META-INF/Kotlin_Tutorial.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_05_funKt$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_05_funKt$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_05_funKt$main$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_05_funKt$main$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_05_funKt$main$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_05_funKt$main$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Tutorial/hello/_05_funKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07.class.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/07.class.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/07.class.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="189">
+              <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -68,7 +60,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,15 +73,19 @@
               <item name="Kotlin_Tutorial" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Kotlin_Tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553099690462" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553187069866" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -183,7 +179,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -212,13 +208,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/05.fun.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/05.fun.kt" />
     <entry file="file://$PROJECT_DIR$/src/04.if_else_for_while.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
@@ -242,8 +232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/07.class.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="189">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
         </state>
       </provider>
     </entry>
