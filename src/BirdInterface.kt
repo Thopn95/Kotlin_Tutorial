@@ -1,6 +1,6 @@
 package hello
 
-interface BirdInterface{
+public interface BirdInterface{
     fun fly(){
         println("I can fly")
     }
